@@ -1,0 +1,40 @@
+.maincontainer{
+  height: 100vh;
+  background: burlywood;
+  /* display: flex;
+  flex-direction: column; */
+}
+.innercontainer{
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.card{
+  flex-grow: 1;
+  background: white;
+  height: 80%;
+  border-radius: 5px;
+  max-width: 40%;
+  margin: 10px;
+  padding: 10px;
+  overflow-y: auto;
+}
+.mainLabel{
+  display: block;
+  font-size: 1.17em;
+  margin-top: 1em;
+  margin-bottom: 0.2em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+.nocontent{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.17em;
+    color: rgb(202, 196, 196);
+}

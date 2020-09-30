@@ -1,0 +1,222 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing SelectedComponent matches snapshot 1`] = `
+<div
+  className="maincontainer"
+>
+  <div
+    className="innercontainer"
+  >
+    <div
+      className="card"
+    >
+      <div
+        className="form-check"
+      >
+        <div
+          className="mainLabel"
+        >
+          Portugal
+        </div>
+        <div
+          className="checkboxblock"
+        >
+          <input
+            className="form-check-input checkbox"
+            id="Aasiya Jayavant"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="form-check-label"
+            data-testid="Aasiya Jayavant"
+            htmlFor="Aasiya Jayavant"
+          >
+            Aasiya Jayavant
+          </label>
+        </div>
+        <div
+          className="checkboxblock"
+        >
+          <input
+            className="form-check-input checkbox"
+            id="Luvleen Lawrence"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="form-check-label"
+            data-testid="Luvleen Lawrence"
+            htmlFor="Luvleen Lawrence"
+          >
+            Luvleen Lawrence
+          </label>
+        </div>
+        <div
+          className="checkboxblock"
+        >
+          <input
+            className="form-check-input checkbox"
+            id="Rey Mibourne"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="form-check-label"
+            data-testid="Rey Mibourne"
+            htmlFor="Rey Mibourne"
+          >
+            Rey Mibourne
+          </label>
+        </div>
+        <div
+          className="checkboxblock"
+        >
+          <input
+            className="form-check-input checkbox"
+            id="Cayla Brister"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="form-check-label"
+            data-testid="Cayla Brister"
+            htmlFor="Cayla Brister"
+          >
+            Cayla Brister
+          </label>
+        </div>
+      </div>
+      <div
+        className="form-check"
+      >
+        <div
+          className="mainLabel"
+        >
+          Nicaragua
+        </div>
+        <div
+          className="checkboxblock"
+        >
+          <input
+            className="form-check-input checkbox"
+            id="Deveedaas Nandi"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="form-check-label"
+            data-testid="Deveedaas Nandi"
+            htmlFor="Deveedaas Nandi"
+          >
+            Deveedaas Nandi
+          </label>
+        </div>
+        <div
+          className="checkboxblock"
+        >
+          <input
+            className="form-check-input checkbox"
+            id="Obasey Chidy"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="form-check-label"
+            data-testid="Obasey Chidy"
+            htmlFor="Obasey Chidy"
+          >
+            Obasey Chidy
+          </label>
+        </div>
+        <div
+          className="checkboxblock"
+        >
+          <input
+            className="form-check-input checkbox"
+            id="Xenie Dolezelova"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="form-check-label"
+            data-testid="Xenie Dolezelova"
+            htmlFor="Xenie Dolezelova"
+          >
+            Xenie Dolezelova
+          </label>
+        </div>
+        <div
+          className="checkboxblock"
+        >
+          <input
+            className="form-check-input checkbox"
+            id="Ezequiel Dengra"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="form-check-label"
+            data-testid="Ezequiel Dengra"
+            htmlFor="Ezequiel Dengra"
+          >
+            Ezequiel Dengra
+          </label>
+        </div>
+      </div>
+      <div
+        className="form-check"
+      >
+        <div
+          className="mainLabel"
+        >
+          Marshall Islands
+        </div>
+        <div
+          className="checkboxblock"
+        >
+          <input
+            className="form-check-input checkbox"
+            id="Aaron Almaraz"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="form-check-label"
+            data-testid="Aaron Almaraz"
+            htmlFor="Aaron Almaraz"
+          >
+            Aaron Almaraz
+          </label>
+        </div>
+        <div
+          className="checkboxblock"
+        >
+          <input
+            className="form-check-input checkbox"
+            id="Jelena Denisova"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <label
+            className="form-check-label"
+            data-testid="Jelena Denisova"
+            htmlFor="Jelena Denisova"
+          >
+            Jelena Denisova
+          </label>
+        </div>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <div
+        className="nocontent"
+      >
+        No Value Selected
+      </div>
+    </div>
+  </div>
+</div>
+`;
